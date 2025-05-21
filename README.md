@@ -1,7 +1,5 @@
 # Hi there, I'm Sadiq Hussain 👋
 
----
-
 ## 🔭 About Me
 
 I’m a Computer Science graduate from Ontario Tech University, passionate about **backend engineering**, **data analysis**, **data engineering**, and **data science**. With co-op experience at IBM Canada and Dream Payments, I’ve built scalable APIs, automated test data pipelines, and crafted AI-driven solutions.
